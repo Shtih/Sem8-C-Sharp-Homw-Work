@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/bin/Debug/net7.0/task55
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/bin/Debug/net7.0/task55.deps.json
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/bin/Debug/net7.0/task55.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/bin/Debug/net7.0/task55.dll
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/bin/Debug/net7.0/task55.pdb
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.dll
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/refint/task55.dll
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.pdb
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/task55.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem8 C#/task55/obj/Debug/net7.0/ref/task55.dll
